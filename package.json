@@ -1,0 +1,24 @@
+{
+  "name": "pdf-creater-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "create_pdf.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harsh8088/pdf-creater-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harsh8088/pdf-creater-node/issues"
+  },
+  "homepage": "https://github.com/harsh8088/pdf-creater-node#readme",
+  "dependencies": {
+    "pdfkit": "^0.13.0",
+    "puppeteer": "^21.3.8"
+  }
+}
