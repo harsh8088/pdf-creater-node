@@ -4,7 +4,8 @@
   "description": "",
   "main": "create_pdf.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./sample_ejs/generate_pdf.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,8 @@
   },
   "homepage": "https://github.com/harsh8088/pdf-creater-node#readme",
   "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
     "pdfkit": "^0.13.0",
     "puppeteer": "^21.3.8"
   }
