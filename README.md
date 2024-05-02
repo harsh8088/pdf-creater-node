@@ -1,1 +1,3 @@
-PDF Generator allows you make PDF from the html file.
+# pdf-creator
+
+PDF creator allows you to make PDF from the html file.
